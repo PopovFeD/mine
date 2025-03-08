@@ -1,0 +1,6 @@
+{
+    "s": 2,
+    "epsilon": 1e-4,
+    "max_terms": 10000,
+    "decimal_places": 4
+}
